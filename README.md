@@ -65,7 +65,7 @@ json-server --watch db.json
  npm start
  ```
 
-3. Open your browser and navigate to https://kaushiknatua12345.github.io/APIWithTSAndSwagger  to view the Swagger UI.
+
 
 ## API Documentation
 
