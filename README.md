@@ -4,11 +4,15 @@ This project demonstrates how to create an OpenAPI documentation using Typescrip
 
 ## Table of Contents
 
+- [Swagger Documentation](#Swagger)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Swagger
+To view Swagger.json file in UI mode, click the link: <a href="https://kaushiknatua12345.github.io/APIWithTSAndSwagger/swagger.json">Swagger Documentation</a>
 
 ## Installation
 
